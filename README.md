@@ -2,6 +2,8 @@
 Awesome list about graph
 
 # library
+* [cytoscape.js](https://github.com/cytoscape/cytoscape.js) JavaScript
+> Graph theory (network) library for visualisation and analysis http://js.cytoscape.org
 * [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf) C#
 * [frames@tinkerpop](https://github.com/tinkerpop/frames) Java
 > An Object to Graph Framework
@@ -10,6 +12,9 @@ Awesome list about graph
 * [Graph#](http://graphsharp.codeplex.com/) C#; UI; WPF
 * [Graphite](https://github.com/cgutteridge/Graphite) PHP; RDF
 * [GraphX](https://github.com/panthernet/GraphX) C#; UI
+* jgraph:
+  * [mxGraph](https://github.com/jgraph/mxgraph)  is a fully client side JavaScript diagramming library
+  * [draw.io](https://github.com/jgraph/drawio) is an online diagramming web site that delivers the source in this project.
 * [lore-graph](https://github.com/13f/lore-graph) JavaScript; d3.js
 * [N3.js](https://github.com/RubenVerborgh/N3.js) JavaScript
 > Lightning fast, spec-compatible, streaming RDF for JavaScript
