@@ -26,6 +26,7 @@ Awesome list about graph
 > RDF-Object Mapping for the Semantic Web
 * [SemanticImage](https://github.com/taurenshaman/SemanticImage) C#; pngcs
 * [semweb-dotnet@JoshData](https://github.com/JoshData/semweb-dotnet) C#; RDF
+* [vis/network](https://github.com/visjs/vis-network) JavaScript; HTML Canvas; Clustering
 * [visualRDF](https://github.com/alangrafu/visualRDF) PHP
 
 # algorithm
