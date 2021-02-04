@@ -50,7 +50,9 @@ Awesome list about graph
 * [4store](https://github.com/4store/4store) C
 * [BrightstarDB](https://github.com/BrightstarDB/BrightstarDB) C#
 * [cayley](https://github.com/cayleygraph/cayley) GO
+* [CosmosDB @ Azure](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) Cloud; TinkerPop Gremlin
 * [neo4j](http://neo4j.org/) Java
+* [Neptune @ AWS](https://aws.amazon.com/neptune/) Cloud; TinkerPop Gremlin; SPARQL
 * [OrintDB](http://www.orientechnologies.com/)
 * [rexter@tinkerpop](https://github.com/tinkerpop/rexster) Java
 * [sones](https://github.com/sones/sones) C#
